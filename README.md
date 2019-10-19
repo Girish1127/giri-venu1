@@ -1,2 +1,1 @@
-# giri-venu1
-text classification
+text classification using multinomial naive-bayesian classifier for 20newsgroups
